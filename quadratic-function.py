@@ -55,7 +55,7 @@ def getDerivative():
 
     plt.ylabel('y - axis')
 
-    plt.title('The instanteneous velocity of a projectile at a given time t')
+    plt.title('The parable of domain ({}, {}) and the tangent line at x = {}'.format(startPoint, endPoint, givenDomainValue))
 
     plt.show()
 
